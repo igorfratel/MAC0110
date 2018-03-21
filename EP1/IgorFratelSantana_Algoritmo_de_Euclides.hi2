@@ -1,0 +1,45 @@
+100;5
+0;+1190;Ac recebe [90].
+1;+1245;45 recebe [Ac].
+2;+1250;50 recebe [Ac].
+3;+1260;60 recebe [Ac].
+4;+1270;70 recebe [Ac].
+5;+1280;80 recebe [Ac].
+6;+3145;EE recebe entrada.
+7;+1145;Ac recebe [45].
+8;+5606;Se [Acc] < 0, desvia para 06.
+9;+5528;Se [Acc] = 0, desvia para 28.
+10;+1270;70 recebe [Ac].
+11;+3150;EE recebe entrada.
+12;+1150;Ac recebe [50].
+13;+5611;Se [Acc] < 0, desvia para 11.
+14;+5540;Se [Acc] = 0, desvia para 40.
+15;+1280;80 recebe [Ac].
+16;+1145;Ac recebe [45].
+17;+2550;Ac recebe o resto de [Ac] / [50].
+18;+1260;60 recebe [Ac].
+19;+1150;Ac recebe [50].
+20;+1245;45 recebe [Ac].
+21;+1160;Ac recebe [60].
+22;+1250;50 recebe [Ac].
+23;+5316;Se [Acc] for diferente de 0, desvia para 16.
+24;+4170;Imprime [70].
+25;+4180;Imprime [80].
+26;+4145;Imprime [45].
+27;+7000;Pare a execução.
+28;+3150;EE recebe entrada.
+29;+1150;Ac recebe [50].
+30;+5628;Se [Acc] < 0, desvia para 28.
+31;+5536;Se [Acc] = 0, desvia para 36.
+32;+4145;Imprime [45].
+33;+4150;Imprime [50].
+34;+4150;Imprime [50].
+35;+7000;Pare a execução.
+36;+4145;Imprime [45].
+37;+4150;Imprime [50].
+38;+4190;Imprime [90].
+39;+7000;Pare a execução.
+40;+4145;Imprime [45].
+41;+4150;Imprime [50].
+42;+4145;Imprime [45].
+43;+7000;Pare a execução.
